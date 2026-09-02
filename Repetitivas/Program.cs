@@ -5,6 +5,7 @@
 using System.Runtime.InteropServices;
 
 System.Console.WriteLine("Ingreso de notas de curso");
+System.Console.WriteLine("Hola mundo bello!");
 int x=0;
 
 while (x==0)
