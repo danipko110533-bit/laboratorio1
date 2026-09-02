@@ -1,0 +1,14 @@
+C:\Users\Docente\Desktop\1953\cshapp\Repetitivas\bin\Debug\net10.0\Repetitivas.exe
+C:\Users\Docente\Desktop\1953\cshapp\Repetitivas\bin\Debug\net10.0\Repetitivas.deps.json
+C:\Users\Docente\Desktop\1953\cshapp\Repetitivas\bin\Debug\net10.0\Repetitivas.runtimeconfig.json
+C:\Users\Docente\Desktop\1953\cshapp\Repetitivas\bin\Debug\net10.0\Repetitivas.dll
+C:\Users\Docente\Desktop\1953\cshapp\Repetitivas\bin\Debug\net10.0\Repetitivas.pdb
+C:\Users\Docente\Desktop\1953\cshapp\Repetitivas\obj\Debug\net10.0\Repetitivas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Docente\Desktop\1953\cshapp\Repetitivas\obj\Debug\net10.0\Repetitivas.AssemblyInfoInputs.cache
+C:\Users\Docente\Desktop\1953\cshapp\Repetitivas\obj\Debug\net10.0\Repetitivas.AssemblyInfo.cs
+C:\Users\Docente\Desktop\1953\cshapp\Repetitivas\obj\Debug\net10.0\Repetitivas.csproj.CoreCompileInputs.cache
+C:\Users\Docente\Desktop\1953\cshapp\Repetitivas\obj\Debug\net10.0\Repetitivas.dll
+C:\Users\Docente\Desktop\1953\cshapp\Repetitivas\obj\Debug\net10.0\refint\Repetitivas.dll
+C:\Users\Docente\Desktop\1953\cshapp\Repetitivas\obj\Debug\net10.0\Repetitivas.pdb
+C:\Users\Docente\Desktop\1953\cshapp\Repetitivas\obj\Debug\net10.0\Repetitivas.genruntimeconfig.cache
+C:\Users\Docente\Desktop\1953\cshapp\Repetitivas\obj\Debug\net10.0\ref\Repetitivas.dll
